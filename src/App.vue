@@ -7,5 +7,5 @@
 </template>
 
 <script setup lang="ts">
-import {BMButton} from './components/Button'
+import {BMButton} from './components/button'
 </script>

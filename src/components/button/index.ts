@@ -1,0 +1,1 @@
+export {default as BMButton} from './button.vue'
